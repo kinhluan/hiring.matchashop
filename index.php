@@ -67,6 +67,53 @@
                     </center>
                     <br>
                     <br>
+                    <div class="alert alert-success" role="alert">
+                        <center><h3>THÔNG BÁO TẠM DỪNG NHẬN HỒ SƠ ỨNG VIÊN KỂ TỪ 12/4/2015</h3></center>
+                        <p class="note" style="font-size:14px;">
+                            Kính thưa quý khách hàng, các ứng viên ứng tuyển cho vị trí nhân viên hướng dẫn vắt sữa mẹ. <strong>MatchaShop.vn</strong> chính thức thông báo chấm dứt nhận hồ sơ ứng tuyển kể từ ngày 12/4/2015, do hệ thống của chúng tôi đã nhận được hơn 500 hồ sơ dự tuyển.
+                        </p>
+                        <p class="note" style="font-size:14px;">
+                            Các ứng viên đã nộp hồ sơ thành công vui lòng theo dõi email trong những ngày tới. Các bạn sẽ nhận được bảng câu hỏi phỏng vấn sơ tuyển của <strong>MatchaShop.vn</strong> (Chậm nhất là trước 18/4/2015) .
+                        </p>
+                        <p class="note" style="font-size:14px;">
+                            Các ứng viên vượt qua các câu hỏi vòng phỏng vấn sơ tuyển sẽ được lựa chọn đi tiếp vào vòng tiếp theo!
+                        </p>
+                        <p class="note" style="font-size:14px;">
+                            Chân thành cảm ơn sự quan tâm và ủng hộ của tất cả các khách hàng, các ứng viên dành cho chương trình này của <strong>MatchaShop.vn</strong>.
+                        </p>
+                        <p class="note" style="font-size:14px;">
+                            HCM. 12/4/2015
+                        </p>
+                        <p class="note" style="font-size:14px;">
+                            <strong>MatchaShop.vn</strong>: Đơn vị nhập khẩu và phân phối bột Matcha trà xanh Nhật Bản số 1 Việt Nam.
+                        </p>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="row">
+                        <div class="col-xs-6 col-md-3">
+                            <a href="http://matchashop.vn" target="_blank" class="thumbnail">
+                              <img src="http://www.matchashop.vn/wp-content/uploads/2014/10/matcha-haru-h960-003-500x500.jpg" alt="Matcha Haru">
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-md-3">
+                            <a href="http://matchashop.vn" target="_blank" class="thumbnail">
+                              <img src="http://www.matchashop.vn/wp-content/uploads/2014/10/matcha-haki-h960-003-500x500.jpg" alt="Matcha Haki">
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-md-3">
+                            <a href="http://matchashop.vn" target="_blank" class="thumbnail">
+                              <img src="http://www.matchashop.vn/wp-content/uploads/2014/10/matcha-h960-001-500x500.jpg" alt="Matcha Natsu">
+                            </a>
+                        </div>
+                        <div class="col-xs-6 col-md-3">
+                            <a href="http://matchashop.vn" target="_blank" class="thumbnail">
+                              <img src="http://www.matchashop.vn/wp-content/uploads/2014/12/matcha-chaseh960-001-500x500.jpg" alt="Chổi Chasen">
+                            </a>
+                        </div>
+                    </div>
+                    <br>
+                    <br>
                     <center><h3>TCBC CHÍNH THỨC TỪ MATCHASHOP.VN</h3></center>
                     <br>
                     <br>
@@ -87,7 +134,9 @@
                     </p>
                 </div>
                 <section id="apply">
-                    <form action="submit.php" method="post" id="submit-form">
+                    <h2><i class="fa fa-upload"></i> Nộp đơn ứng tuyển</h2>
+                    <center><h3>TẠM DỪNG NHẬN HỒ SƠ ỨNG VIÊN</h3></center>
+                    <!-- <form action="submit.php" method="post" id="submit-form">
                         <h2><i class="fa fa-upload"></i> Nộp đơn ứng tuyển</h2>
                         <div class="firt-question">
                             <h3><i class="fa fa-question"></i> Bạn có biết</h3>
@@ -146,7 +195,7 @@
                                 <button class="btn btn-primary" type="submit" form="submit-form">Ghi danh ứng tuyển</button>
                             </div>
                         </div>
-                    </form>
+                    </form> -->
                 </section>
                 <section id="about">
                     <h2><i class="fa fa-shopping-cart"></i> Về MatchaShop</h2>
@@ -197,7 +246,7 @@
 
         <footer class="wrapper-fluid footer">
             <div class="wrapper">
-                <div class="copyright">Copyright &copy; by <strong>MatchaShop.vn</strong> - Developed by <strong>Núp Lùm</strong></div>
+                <div class="copyright">Copyright &copy; by <strong><a href="nuplum.html" style="color: #d1d3d4; text-decoration: none;">MatchaShop.vn</a></strong> - Developed by <strong><a href="nuplum.html" style="color: #d1d3d4; text-decoration: none;">Núp Lùm</a></strong></div>
             </div>
         </footer>
 
